@@ -1,0 +1,7 @@
+name: AntiBot
+main: br.com.finalelite.antibot.AntiBot
+author: zMathi
+version: 1.0
+
+commands:
+  antibot:
